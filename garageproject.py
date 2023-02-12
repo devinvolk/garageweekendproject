@@ -31,6 +31,7 @@ class Parking_Garage():
         if balance != 0:
             self.current_ticket['paid']=False 
             print(balance)  
+            
         
 
     #<---------updating parking_spaces----------->   
